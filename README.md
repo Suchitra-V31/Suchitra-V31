@@ -6,21 +6,6 @@
 
 ---
 
-## 🌟 GitHub Trophies & Achievements
-<p align="center">
-  <img src="![trophy](https://github-profile-trophy.vercel.app/?username=Suchitra-V31&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suchitra-V31&show_icons=true&theme=tokyonight" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suchitra-V31&theme=tokyonight" height="160px"/>
-</p>
-
----
-
 ## 🚀 Tech Stack
 
 ### 🌐 Backend & Frameworks  
@@ -79,6 +64,20 @@
 </p>
 
 ---
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Suchitra-V31&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Suchitra-V31&show_icons=true&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suchitra-V31&theme=tokyonight" height="160px"/>
+</p>
+
+---
 
 ## 📫 Connect With Me  
 <p align="center">
@@ -86,3 +85,4 @@
     <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
 
 </p>
+✨ *“Code + Creativity = Impact. Always learning, always building.”*  
