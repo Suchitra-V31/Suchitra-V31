@@ -1,8 +1,23 @@
-# Hi 👋, I'm Suchitra V  
+# Hi 👋, I'm Suchitra V
 
-💻 Passionate **Full-Stack Developer | Backend Engineer | AI Enthusiast**  
-🚀 Exploring **Node.js, Spring Boot, Python Django & AI/ML**  
-🎯 Focused on building **scalable backend systems & real-world projects**  
+## 👩‍💻 About Me
+
+- 💻 Passionate **Java Backend Developer** specializing in **Spring Boot, REST APIs, and Microservices**.  
+- 🚀 Skilled in designing and building **scalable backend systems** and real-world applications.  
+- 🌐 Versatile with hands-on experience in **Java, Python, Node.js, and JavaScript**.  
+- 🧠 Exploring **AI/ML** to integrate intelligent features into modern applications.  
+- 🗄️ Strong understanding of **Databases (MySQL, MongoDB, DBMS fundamentals)** and backend data handling.  
+- 🛠️ Proficient with tools like **Git, GitHub, Selenium, Postman, and REST API integrations**.  
+- 🤝 Collaborative team player with strong **problem-solving, adaptability, and communication skills**.  
+- 📈 Continuously learning advanced topics like **System Design, Cloud Deployments, and AI-powered applications**.  
+
+## 🌱 Currently Learning
+
+- Advanced **Spring Boot** (Microservices, Security, Performance Optimization)  
+- **System Design & Scalability** for real-world applications  
+- AI/ML integration into backend systems  
+- **Cloud Deployment & CI/CD** pipelines for full-stack projects
+
 
 ---
 
