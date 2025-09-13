@@ -1,5 +1,12 @@
 # Hi 👋, I'm Suchitra V
 
+💻 Java Backend Developer | Spring Boot | API Development | AI/ML Enthusiast  
+
+I’m a developer passionate about building **scalable backend systems, APIs, and real-world applications**.  
+My core expertise lies in **Java and Spring Boot**, but I also explore **Python, Node.js, AI/ML, and modern databases** to stay versatile and adaptable.
+
+---
+
 ## 👩‍💻 About Me
 
 - 💻 Passionate **Java Backend Developer** specializing in **Spring Boot, REST APIs, and Microservices**.  
@@ -9,7 +16,9 @@
 - 🗄️ Strong understanding of **Databases (MySQL, MongoDB, DBMS fundamentals)** and backend data handling.  
 - 🛠️ Proficient with tools like **Git, GitHub, Selenium, Postman, and REST API integrations**.  
 - 🤝 Collaborative team player with strong **problem-solving, adaptability, and communication skills**.  
-- 📈 Continuously learning advanced topics like **System Design, Cloud Deployments, and AI-powered applications**.  
+- 📈 Continuously learning advanced topics like **System Design, Cloud Deployments, and AI-powered applications**.
+
+---
 
 ## 🌱 Currently Learning
 
@@ -17,7 +26,6 @@
 - **System Design & Scalability** for real-world applications  
 - AI/ML integration into backend systems  
 - **Cloud Deployment & CI/CD** pipelines for full-stack projects
-
 
 ---
 
@@ -65,10 +73,9 @@
 ![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge)  
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6A1B9A?style=for-the-badge)
 
-
 ---
 
-## 📌 Pinned Projects  
+## 📌 Pinned Projects
 <p align="center">
   <a href="https://github.com/Suchitra-V31/Web-development-projects">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Suchitra-V31&repo=Web-development-projects&theme=tokyonight" />
@@ -92,14 +99,8 @@
 </p>
 
 ---
-## 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Suchitra-V31&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
 
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Streaks
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Suchitra-V31&show_icons=true&theme=tokyonight" height="160px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suchitra-V31&theme=tokyonight" height="160px"/>
@@ -107,8 +108,14 @@
 
 ---
 
-## 📫 Connect With Me
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Suchitra-V31&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
+---
+
+## 📫 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/suchitra-v-8036781ab" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
