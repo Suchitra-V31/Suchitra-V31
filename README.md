@@ -85,4 +85,5 @@
     <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
 
 </p>
+---
 ✨ *“Code + Creativity = Impact. Always learning, always building.”*  
