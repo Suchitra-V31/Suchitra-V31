@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="[https://your-image-link.com/banner.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fgirl-programmer&psig=AOvVaw3c2WljMg1g41vzDgD8UpZV&ust=1757854859978000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMD5oPLl1Y8DFQAAAAAdAAAAABAa)" alt="Suchitra V Banner" width="800"/>
+</p>
+
 # Hi 👋, I'm Suchitra V
 
 💻 Java Backend Developer | Spring Boot | API Development | AI/ML Enthusiast  
