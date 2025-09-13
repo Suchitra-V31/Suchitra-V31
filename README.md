@@ -23,7 +23,7 @@
 
 ## 🚀 Tech Stack
 
-### 🌐 Backend & Frameworks  
+### 🌐 Backend & Frameworks
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
 ![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)  
@@ -33,25 +33,38 @@
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)  
 ![REST APIs](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=postman&logoColor=white)  
+![Backend Development](https://img.shields.io/badge/Backend-8A2BE2?style=for-the-badge)
 
-### 🗄️ Databases  
+### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
+![DBMS](https://img.shields.io/badge/DBMS-F9A825?style=for-the-badge)
 
-### 🐍 Python & Libraries  
+### 🐍 Python & Libraries
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)  
-![ML](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)  
-![DL](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=keras&logoColor=white)  
+![Machine Learning](https://img.shields.io/badge/ML-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)  
+![Deep Learning](https://img.shields.io/badge/DL-FF6F00?style=for-the-badge&logo=keras&logoColor=white)
 
-### 🌐 Frontend & Tools  
+### 🌐 Frontend & Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=f7df1e)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+### 🛠️ Others
+![API Development](https://img.shields.io/badge/API-007ACC?style=for-the-badge)  
+![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge)  
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6A1B9A?style=for-the-badge)
+
 
 ---
 
