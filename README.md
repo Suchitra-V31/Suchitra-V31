@@ -93,15 +93,6 @@ My core expertise lies in **Java, Spring Boot, and ServiceNow**, but I also expl
   <a href="https://github.com/Suchitra-V31/Machine-learning-projects">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Suchitra-V31&repo=Machine-learning-projects&theme=tokyonight" />
   </a>
-  <a href="https://github.com/Suchitra-V31/Network-Utilization-Dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Suchitra-V31&repo=Network-Utilization-Dashboard&theme=tokyonight" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Suchitra-V31/Service-Delivery-Management">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Suchitra-V31&repo=Service-Delivery-Management&theme=tokyonight" />
-  </a>
-</p>
 
 ---
 
