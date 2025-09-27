@@ -70,22 +70,52 @@ My core expertise lies in **Java, Spring Boot, and ServiceNow**, but I also expl
 
 ---
 
+---
+
 ## 📌 Pinned Projects
 <p align="center">
+  <a href="https://github.com/Suchitra-V31/Web-development-projects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Suchitra-V31&repo=Web-development-projects&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Suchitra-V31/Java-Programming">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Suchitra-V31&repo=Java-Programming&theme=tokyonight" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Suchitra-V31/LeetCode-Problems">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Suchitra-V31&repo=LeetCode-Problems&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Suchitra-V31/Springboot-Projects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Suchitra-V31&repo=Springboot-Projects&theme=tokyonight" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Suchitra-V31/Machine-learning-projects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Suchitra-V31&repo=Machine-learning-projects&theme=tokyonight" />
+  </a>
   <a href="https://github.com/Suchitra-V31/Network-Utilization-Dashboard">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Suchitra-V31&repo=Network-Utilization-Dashboard&theme=tokyonight" />
   </a>
+</p>
+<p align="center">
   <a href="https://github.com/Suchitra-V31/Service-Delivery-Management">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Suchitra-V31&repo=Service-Delivery-Management&theme=tokyonight" />
   </a>
 </p>
+
+---
+
+## 📊 GitHub Stats & Streaks
 <p align="center">
-  <a href="https://github.com/Suchitra-V31/ToDo-List-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Suchitra-V31&repo=ToDo-List-App&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Suchitra-V31/Notes-App-JWT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Suchitra-V31&repo=Notes-App-JWT&theme=tokyonight" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Suchitra-V31&show_icons=true&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suchitra-V31&theme=tokyonight" height="160px"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Suchitra-V31&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
